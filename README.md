@@ -80,7 +80,7 @@ These will be addressed in the future for increasing the robustness and precise 
 *   Implement techniques to improve the model's generalization to a wider range of speakers and environments.
 *   Explore data augmentation techniques to increase the robustness of the model.
 *   Evaluate and compare different model architectures to optimize performance.
-*   Implement noise reduction algorithms to improve recognition accuracy in noisy environments.
+*   Implement noise reduction algorithms to improve recognition accuracy in noisy environments. (Work in progress)
 
 ## 🤝 Contributions
 
